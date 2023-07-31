@@ -1,0 +1,4 @@
+root: ./
+
+redirects:
+    new-start-here: help-guides/getting-started.md
